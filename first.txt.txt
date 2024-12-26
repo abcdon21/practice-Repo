@@ -1,7 +1,3 @@
 my name is abhishi gupta 
 
 i'm creating this file for the practice session of github
-
-i have created my very own branch
-
-my branch is named on my very own name
